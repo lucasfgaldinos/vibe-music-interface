@@ -16,5 +16,5 @@ section {
 }
 
 .glass {
-  @apply backdrop-blur-md shadow-lg bg-light/10;
+  @apply backdrop-blur-md shadow-lg bg-light/8;
 }
