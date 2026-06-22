@@ -7,7 +7,7 @@ export function SuggestionChip({
 }: SuggestionChipProps) {
   return (
     <button
-      className="glass border border-secondary/20 cursor-pointer px-3 py-1 rounded-full text-xs uppercase font-medium text-secondary hover:text-primary transition"
+      className="glass border cursor-pointer px-3 py-1 rounded-full text-xs uppercase font-medium text-secondary hover:text-primary hover:border-primary transition"
       {...props}
     >
       {children}

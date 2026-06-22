@@ -5,9 +5,9 @@ export function MusicsContainer() {
     <section>
       <SectionTitle>SUA VIBE ATUAL</SectionTitle>
 
-      <hr className="border-t border-secondary/20 mb-7" />
+      <hr className="border-t mb-7" />
 
-      <div className="glass rounded-2xl border border-secondary/20 h-90 flex items-center justify-center">
+      <div className="glass rounded-2xl border h-90 flex items-center justify-center">
         * A lista das músicas ficarão aqui!
       </div>
     </section>

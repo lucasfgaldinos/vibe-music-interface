@@ -14,7 +14,7 @@ export function ProjectInfoCard({
 }: ProjectInfoCardProps) {
   return (
     <div
-      className="glass flex flex-col gap-3 p-5 border border-secondary/20 border-l-primary rounded-2xl"
+      className="glass flex flex-col gap-3 p-5 border border-l-primary rounded-2xl"
       {...props}
     >
       <Icon size={28} className="text-primary" />

@@ -3,7 +3,7 @@
   content: "";
   height: 4px;
   width: 50px;
-  background-color: #09a129;
+  background-color: var(--color-primary);
   left: 0;
   bottom: 8px;
 }
